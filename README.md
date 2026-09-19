@@ -1,7 +1,7 @@
 # Pipeline multimodale per la generazione sintetica e la validazione di immagini in pixel art
 
 Codice della tesi di laurea triennale *Pipeline Multimodale per la Generazione Sintetica
-e Validazione di Immagini in Pixel Art* (relatore Prof. Danilo Croce).
+e Validazione di Immagini in Pixel Art* Leonardo Quartucci (relatore Prof. Danilo Croce).
 
 ## Contenuto
 
